@@ -1,5 +1,7 @@
 test on git pull
 
 Git is a distributed version control system.
-Git is free software.
+Git is software.
+
+第四行减少一个free字
 
