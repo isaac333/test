@@ -4,4 +4,4 @@ Git is a distributed version control system.
 Git is software.
 
 第四行减少一个free字
-
+Git has a mutable index called stage.
